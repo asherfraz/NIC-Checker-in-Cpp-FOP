@@ -2,6 +2,8 @@
 
 This program is designed to validate the basic information of a person using their CNIC (Computerized National Identity Card). It compares the CNIC number entered by the user through a Data Sheet to check for the District, Division, Province & Code, and then outputs the result.
 
+![ScreenShot](https://raw.githubusercontent.com/asherfraz/NIC-Checker-in-Cpp-FOP/main/screen.png)
+
 ## Features
 
 - **Validation of CNIC information**
