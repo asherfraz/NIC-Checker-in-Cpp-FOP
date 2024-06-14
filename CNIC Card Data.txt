@@ -1,0 +1,9 @@
+========================================
+	CNIC Card Checker Data.
+========================================
+ Card Holder Name: asherfraz
+ CNIC Number: 12345-6789012-3
+ Province : Khyber Pakhtunkhwa [KPK]
+ Division : Dera Ismail Khan
+ Family Number : 6789012
+ Gender : Male
